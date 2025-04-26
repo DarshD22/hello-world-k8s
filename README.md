@@ -234,4 +234,7 @@ You have:
 
 ---
 
+# 🎉 Congratulations!
+
+You successfully completed the assignment! 🚀
 
